@@ -1,0 +1,14 @@
+/* Leaflet popup styling */
+.leaflet-popup-content-wrapper {
+  border-radius: 0.5rem;
+  padding: 0;
+}
+
+.leaflet-popup-content {
+  margin: 0;
+}
+
+.custom-marker {
+  background: transparent;
+  border: none;
+}
